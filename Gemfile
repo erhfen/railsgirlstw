@@ -25,6 +25,8 @@ gem 'jquery-rails'
 
 gem 'rails_12factor', group: :production
 
+gem 'devise'
+
 
 
 # To use ActiveModel has_secure_password
